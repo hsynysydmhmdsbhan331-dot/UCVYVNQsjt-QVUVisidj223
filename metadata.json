@@ -1,0 +1,6 @@
+{
+  "name": "Project Owl",
+  "description": "Offline bilingual Persian and English language learning app with an original turquoise owl mascot, interactive A1 lessons, and Text-to-Speech practice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
